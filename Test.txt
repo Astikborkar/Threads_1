@@ -1,0 +1,5 @@
+Paste Synchronized Java Class Output here 
+synchronized
+// Fill The Output Here
+static synchronized
+  // Fill The Output Here
